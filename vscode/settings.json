@@ -1,0 +1,29 @@
+{
+  "workbench.colorTheme": "One Dark Pro",
+  "window.menuBarVisibility": "toggle",
+  "workbench.statusBar.feedback.visible": false,
+  "editor.fontSize": 22,
+  "editor.tabSize": 2,
+  "editor.links": false,
+  "editor.cursorBlinking": "solid",
+  "workbench.startupEditor": "none",
+  "workbench.editor.closeOnFileDelete": true,
+  "workbench.colorCustomizations": {
+      "titleBar.activeBackground": "#21252B"
+  },
+  "editor.hover.enabled": false,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.folding": false,
+  "editor.glyphMargin": false,
+  "editor.colorDecorators": false,
+  "css.lint.emptyRules": "ignore",
+  "editor.dragAndDrop": false,
+  "editor.autoIndent": false,
+  "editor.lightbulb.enabled": false,
+  "editor.smoothScrolling": true,
+  "editor.mouseWheelScrollSensitivity": 1.8,
+  "emmet.triggerExpansionOnTab": true,
+  "extensions.ignoreRecommendations": true,
+  "extensions.showRecommendationsOnlyOnDemand": true,
+  "editor.accessibilitySupport": "off"
+}
