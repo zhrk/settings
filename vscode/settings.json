@@ -25,5 +25,6 @@
   "emmet.triggerExpansionOnTab": true,
   "extensions.ignoreRecommendations": true,
   "extensions.showRecommendationsOnlyOnDemand": true,
-  "editor.accessibilitySupport": "off"
+  "editor.accessibilitySupport": "off",
+  "explorer.confirmDelete": false
 }
