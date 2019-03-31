@@ -9,9 +9,8 @@
   "workbench.startupEditor": "none",
   "workbench.editor.closeOnFileDelete": true,
   "workbench.colorCustomizations": {
-      "titleBar.activeBackground": "#21252B"
+    "titleBar.activeBackground": "#21252B"
   },
-  "editor.hover.enabled": false,
   "editor.multiCursorModifier": "ctrlCmd",
   "editor.folding": false,
   "editor.glyphMargin": false,
@@ -26,5 +25,7 @@
   "extensions.ignoreRecommendations": true,
   "extensions.showRecommendationsOnlyOnDemand": true,
   "editor.accessibilitySupport": "off",
-  "explorer.confirmDelete": false
+  "explorer.confirmDelete": false,
+  "prettier.eslintIntegration": true,
+  "editor.formatOnSave": true
 }
