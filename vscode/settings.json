@@ -9,8 +9,9 @@
   "workbench.startupEditor": "none",
   "workbench.editor.closeOnFileDelete": true,
   "workbench.colorCustomizations": {
-    "titleBar.activeBackground": "#21252B"
+      "titleBar.activeBackground": "#21252B"
   },
+  "editor.hover.enabled": false,
   "editor.multiCursorModifier": "ctrlCmd",
   "editor.folding": false,
   "editor.glyphMargin": false,
