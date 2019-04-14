@@ -71,5 +71,13 @@
     "key": "f5",
     "command": "-workbench.action.debug.start",
     "when": "!inDebugMode"
+  },
+  {
+    "key": "ctrl+m",
+    "command": "-editor.action.toggleTabFocusMode"
+  },
+  {
+    "key": "ctrl+shift+w",
+    "command": "-workbench.action.closeWindow"
   }
 ]
