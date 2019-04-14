@@ -28,5 +28,9 @@
   "editor.accessibilitySupport": "off",
   "explorer.confirmDelete": false,
   "prettier.eslintIntegration": true,
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "editor.parameterHints.enabled": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
 }
