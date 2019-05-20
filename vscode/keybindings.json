@@ -97,5 +97,13 @@
   {
     "key": "ctrl+b",
     "command": "-workbench.action.toggleSidebarVisibility"
+  },
+  {
+    "key": "ctrl+n",
+    "command": "-workbench.action.files.newUntitledFile"
+  },
+  {
+    "key": "ctrl+shift+s",
+    "command": "-workbench.action.files.saveAs"
   }
 ]
