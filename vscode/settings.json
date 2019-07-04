@@ -1,7 +1,6 @@
 {
   "workbench.colorTheme": "One Dark Pro",
   "window.menuBarVisibility": "toggle",
-  "workbench.statusBar.feedback.visible": false,
   "editor.fontSize": 22,
   "editor.tabSize": 2,
   "editor.links": false,
@@ -9,7 +8,7 @@
   "workbench.startupEditor": "none",
   "workbench.editor.closeOnFileDelete": true,
   "workbench.colorCustomizations": {
-      "titleBar.activeBackground": "#21252B"
+    "titleBar.activeBackground": "#21252B"
   },
   "editor.hover.enabled": false,
   "editor.multiCursorModifier": "ctrlCmd",
@@ -41,4 +40,5 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "breadcrumbs.enabled": false,
+  "workbench.tree.renderIndentGuides": "none"
 }
