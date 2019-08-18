@@ -121,5 +121,9 @@
   {
     "key": "ctrl+shift+-",
     "command": "-workbench.action.zoomOut"
+  },
+  {
+    "key": "ctrl+shift+x",
+    "command": "-workbench.view.extensions"
   }
 ]
