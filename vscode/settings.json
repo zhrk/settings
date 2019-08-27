@@ -26,7 +26,7 @@
   "extensions.showRecommendationsOnlyOnDemand": true,
   "editor.accessibilitySupport": "off",
   "explorer.confirmDelete": false,
-  "prettier.eslintIntegration": true,
+  "eslint.autoFixOnSave": true,
   "editor.formatOnSave": true,
   "editor.parameterHints.enabled": false,
   "editor.gotoLocation.multiple": "goto",
