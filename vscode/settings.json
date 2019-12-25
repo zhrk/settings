@@ -46,5 +46,6 @@
   "editor.gotoLocation.multipleDefinitions": "goto",
   "editor.gotoLocation.multipleImplementations": "goto",
   "editor.gotoLocation.multipleReferences": "goto",
-  "editor.gotoLocation.multipleTypeDefinitions": "goto"
+  "editor.gotoLocation.multipleTypeDefinitions": "goto",
+  "problems.showCurrentInStatus": true
 }
