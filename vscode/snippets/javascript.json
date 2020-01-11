@@ -3,5 +3,10 @@
     "prefix": "clg",
     "body": "console.log($0)",
     "description": "Displays a message in the console"
-  }, 
+  },
+  "componentDidMount": {
+    "prefix": "cdm",
+    "body": ["componentDidMount() {", "\t$0", "}", ""],
+    "description": "Invoked once, only on the client (not on the server), immediately after the initial rendering occurs."
+  },
 }
