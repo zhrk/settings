@@ -125,5 +125,10 @@
   {
     "key": "ctrl+shift+x",
     "command": "-workbench.view.extensions"
+  },
+  {
+    "key": "ctrl+w",
+    "command": "-workbench.action.closeWindow",
+    "when": "!editorIsOpen && !multipleEditorGroups"
   }
 ]
