@@ -25,7 +25,6 @@
   "extensions.showRecommendationsOnlyOnDemand": true,
   "editor.accessibilitySupport": "off",
   "explorer.confirmDelete": false,
-  "prettier.eslintIntegration": true,
   "editor.formatOnSave": true,
   "editor.parameterHints.enabled": false,
   "[html]": {
@@ -47,5 +46,9 @@
   "editor.gotoLocation.multipleImplementations": "goto",
   "editor.gotoLocation.multipleReferences": "goto",
   "editor.gotoLocation.multipleTypeDefinitions": "goto",
-  "problems.showCurrentInStatus": true
+  "problems.showCurrentInStatus": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+  },
+  "diffEditor.ignoreTrimWhitespace": true
 }
