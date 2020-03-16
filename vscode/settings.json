@@ -50,5 +50,6 @@
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true,
   },
-  "diffEditor.ignoreTrimWhitespace": true
+  "diffEditor.ignoreTrimWhitespace": true,
+  "editor.cursorSurroundingLines": 4
 }
