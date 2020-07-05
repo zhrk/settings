@@ -51,5 +51,6 @@
     "source.fixAll.eslint": true,
   },
   "diffEditor.ignoreTrimWhitespace": true,
-  "editor.cursorSurroundingLines": 4
+  "editor.cursorSurroundingLines": 4,
+  "debug.javascript.codelens.npmScripts": "never"
 }
