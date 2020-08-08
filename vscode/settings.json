@@ -39,18 +39,26 @@
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "breadcrumbs.enabled": false,
-  "workbench.tree.renderIndentGuides": "none",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
   "editor.gotoLocation.multipleDeclarations": "goto",
   "editor.gotoLocation.multipleDefinitions": "goto",
   "editor.gotoLocation.multipleImplementations": "goto",
   "editor.gotoLocation.multipleReferences": "goto",
   "editor.gotoLocation.multipleTypeDefinitions": "goto",
+  "breadcrumbs.enabled": false,
+  "workbench.tree.renderIndentGuides": "none",
   "problems.showCurrentInStatus": true,
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true,
+    "source.fixAll.eslint": true
   },
   "diffEditor.ignoreTrimWhitespace": true,
   "editor.cursorSurroundingLines": 4,
-  "debug.javascript.codelens.npmScripts": "never"
+  "debug.javascript.codelens.npmScripts": "never",
+  "css.validate": false,
+  "editor.semanticHighlighting.enabled": false,
 }
