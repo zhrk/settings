@@ -15,14 +15,12 @@
   "editor.folding": false,
   "editor.glyphMargin": false,
   "editor.colorDecorators": false,
-  "css.lint.emptyRules": "ignore",
   "editor.dragAndDrop": false,
   "editor.lightbulb.enabled": false,
   "editor.smoothScrolling": true,
   "editor.mouseWheelScrollSensitivity": 1.8,
   "emmet.triggerExpansionOnTab": true,
   "extensions.ignoreRecommendations": true,
-  "extensions.showRecommendationsOnlyOnDemand": true,
   "editor.accessibilitySupport": "off",
   "explorer.confirmDelete": false,
   "editor.formatOnSave": true,
@@ -58,7 +56,5 @@
   },
   "diffEditor.ignoreTrimWhitespace": true,
   "editor.cursorSurroundingLines": 4,
-  "debug.javascript.codelens.npmScripts": "never",
-  "css.validate": false,
-  "editor.semanticHighlighting.enabled": false,
+  "debug.javascript.codelens.npmScripts": "never"
 }
