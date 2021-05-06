@@ -4,14 +4,14 @@
     "body": "console.log($0)",
     "description": "Displays a message in the console"
   },
-  "componentDidMount": {
-    "prefix": "cdm",
-    "body": ["componentDidMount() {", "\t$0", "}", ""],
-    "description": "Invoked once, only on the client (not on the server), immediately after the initial rendering occurs."
-  },
   "importCssModulesStyles": {
     "prefix": "icms",
     "body": ["import styles from './styles.module.scss';"],
-    "description": "import styles from './styles.scss"
+    "description": "import styles from './styles.module.scss';"
+  },
+  "useTranslation": {
+    "prefix": "utrn",
+    "body": ["const { t } = useTranslation();"],
+    "description": "const { t } = useTranslation();"
   },
 }
