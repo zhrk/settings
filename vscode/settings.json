@@ -10,13 +10,11 @@
   "workbench.colorCustomizations": {
     "titleBar.activeBackground": "#21252B"
   },
-  "editor.hover.enabled": false,
   "editor.multiCursorModifier": "ctrlCmd",
   "editor.folding": false,
   "editor.glyphMargin": false,
   "editor.colorDecorators": false,
   "editor.dragAndDrop": false,
-  "editor.lightbulb.enabled": false,
   "editor.smoothScrolling": true,
   "editor.mouseWheelScrollSensitivity": 1.8,
   "emmet.triggerExpansionOnTab": true,
@@ -26,6 +24,9 @@
   "editor.formatOnSave": true,
   "editor.parameterHints.enabled": false,
   "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[scss]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[javascript]": {
@@ -56,5 +57,13 @@
   },
   "diffEditor.ignoreTrimWhitespace": true,
   "editor.cursorSurroundingLines": 4,
-  "debug.javascript.codelens.npmScripts": "never"
+  "debug.javascript.codelens.npmScripts": "never",
+  "security.workspace.trust.untrustedFiles": "open",
+  "diffEditor.maxComputationTime": 0, // ?
+  "typescript.preferences.jsxAttributeCompletionStyle": "none",
+  "workbench.layoutControl.enabled": false,
+  "editor.bracketPairColorization.enabled": false,
+  "scm.diffDecorationsGutterPattern": {
+    "modified": false
+  }
 }
