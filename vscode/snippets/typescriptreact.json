@@ -14,4 +14,9 @@
     "body": ["const { t } = useTranslation();"],
     "description": "const { t } = useTranslation();"
   },
+  "dsprops": {
+    "prefix": "dsprops",
+    "body": ["const { $0 } = props;"],
+    "description": "const {  } = props;"
+  }
 }
