@@ -65,5 +65,8 @@
   "editor.bracketPairColorization.enabled": false,
   "scm.diffDecorationsGutterPattern": {
     "modified": false
-  }
+  },
+  "editor.folding": false,
+  "window.menuBarVisibility": "toggle",
+  "window.commandCenter": false
 }
