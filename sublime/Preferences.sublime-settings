@@ -1,9 +1,10 @@
 {
-	"caret_style": "solid",
-	"color_scheme": "Packages/Theme - One Dark/One Dark.tmTheme",
-	"font_size": 17,
+	"theme": "ayu-dark.sublime-theme",
+	"color_scheme": "Packages/ayu/ayu-dark.sublime-color-scheme",
 	"margin": 0,
+	"font_size": 17,
+	"caret_style": "solid",
 	"tab_size": 2,
-	"theme": "One Dark.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"show_full_path": false
 }
