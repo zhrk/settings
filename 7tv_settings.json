@@ -1,0 +1,47 @@
+{
+  "timestamp": 1719255119968,
+  "settings": [
+    {
+      "key": "chat.mod_logs.enabled",
+      "type": "boolean",
+      "value": false,
+      "timestamp": 1719253716015
+    },
+    {
+      "key": "general.autoclaim.channel_points",
+      "type": "boolean",
+      "value": true,
+      "timestamp": 1719252712503
+    },
+    {
+      "key": "layout.hide_bits_buttons",
+      "type": "boolean",
+      "value": true,
+      "timestamp": 1719137216031
+    },
+    {
+      "key": "layout.hide_channel_leaderboard",
+      "type": "boolean",
+      "value": true,
+      "timestamp": 1719252792983
+    },
+    {
+      "key": "player.action_onclick",
+      "type": "number",
+      "value": 1,
+      "timestamp": 1719184635612
+    },
+    {
+      "key": "player.hide_player_extensions",
+      "type": "boolean",
+      "value": true,
+      "timestamp": 1719253148623
+    },
+    {
+      "key": "ui.emote_menu.default_tab",
+      "type": "string",
+      "value": "FFZ",
+      "timestamp": 1719184038029
+    }
+  ]
+}
