@@ -1,0 +1,66 @@
+{
+  "bttv_settings": {
+    "anonChat": false,
+    "anonChatWhitelistedChannels": [],
+    "anonChatBlacklistedChannels": [],
+    "autoTheatreMode": true,
+    "autoJoinRaids": true,
+    "autoModView": false,
+    "splitChat": false,
+    "deletedMessages": 3,
+    "reverseChatDirection": false,
+    "pinnedHighlights": false,
+    "maxPinnedHighlights": 10,
+    "timeoutHighlights": true,
+    "highlightFeedback": false,
+    "chatLayout": 2,
+    "tabCompletionTooltip": false,
+    "tabCompletionEmotePriority": false,
+    "whispers": true,
+    "showDirectoryLiveTab": false,
+    "channelPointsMessageHighlights": true,
+    "emoteMenu": 0,
+    "autoThemeMode": false,
+    "darkenedMode": false,
+    "primePromotions": true,
+    "playerExtensions": true,
+    "clickToPlay": true,
+    "muteInvisiblePlayer": false,
+    "scrollVolumeControl": false,
+    "emoteAutocomplete": true,
+    "blacklistKeywords": {},
+    "highlightKeywords": null,
+    "sidebar": [
+      122,
+      16
+    ],
+    "emotes": [
+      39,
+      0
+    ],
+    "chat": [
+      61,
+      66
+    ],
+    "autoPlay": [
+      0,
+      13
+    ],
+    "usernames": [
+      15,
+      0
+    ],
+    "channelPoints": [
+      5,
+      0
+    ],
+    "autoClaim": [
+      0,
+      0
+    ],
+    "undefined": false,
+    "emoteMenuWidth": 380,
+    "hypeChat": true,
+    "version": "7.6.5"
+  }
+}
